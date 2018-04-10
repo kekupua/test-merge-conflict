@@ -1,5 +1,6 @@
 bulbusaur
 charmander
 pikachu
+beedril
 caterpie
 butterfree
