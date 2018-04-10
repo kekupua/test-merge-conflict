@@ -2,4 +2,4 @@ pizza
 potato
 fries
 soda
-chicken
+fried chicken
